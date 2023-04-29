@@ -1,5 +1,5 @@
 <div align="center">
-  <strong>⚡Welcome to my profile⚡</strong>
+  <h1>⚡Welcome to my profile⚡</h1>
 </div>
 
 <div id="header" align="center">

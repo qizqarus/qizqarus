@@ -7,7 +7,7 @@
 </div>
 
 <div id="badges" align="center">
-  <h5>My contacts</h5>
+  <h2>📧How to reach me📧</h2>
   <a href="https://www.linkedin.com/in/%D0%B0%D0%B7%D0%B8%D0%B7-%D0%B1%D0%B5%D0%B3%D0%BC%D0%B0%D1%82%D0%BE%D0%B2-72394026b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

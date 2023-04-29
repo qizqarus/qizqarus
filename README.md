@@ -1,4 +1,6 @@
-⚡Welcome to my profile⚡
+<div align="center">
+  <strong>⚡Welcome to my profile⚡</strong>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jAe22Ec5iICCk/giphy.gif" width="300"/>

@@ -14,9 +14,7 @@
   <a href="https://web.telegram.org/k/#@qizqarus2">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://vk.com/qizqarus">
-    <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=Vk&logoColor=white" alt="VK Badge"/>
-  </a>
+ 
 </div>
 
 <div align="center">
